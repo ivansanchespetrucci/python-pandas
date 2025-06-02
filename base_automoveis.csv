@@ -32,7 +32,7 @@ Toyota,Hilux,2020,42587.73
 Volkswagen,T-Cross,2016,19268.95
 Chevrolet,S10,2012,5000.0
 Honda,City,2023,45806.62
-Chevrolet,Onix,2018,16753.28
+Chevrolet,Onix,,16753.28
 Volkswagen,Jetta,2017,23837.63
 Honda,WR-V,2011,5000.0
 Toyota,Hilux,2013,5000.0
@@ -40,7 +40,7 @@ Toyota,RAV4,2012,5000.0
 Ford,Ka,2010,5000.0
 Chevrolet,Cruze,2005,5000.0
 Ford,Fusion,2009,8246.02
-Chevrolet,Corsa,2018,11902.17
+Chevrolet,Corsa,,11902.17
 Toyota,Corolla,2022,46634.89
 Chevrolet,Corsa,2006,5000.0
 Honda,City,2015,23749.39
